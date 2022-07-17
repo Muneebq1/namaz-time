@@ -1,7 +1,6 @@
 let time = () => {
-let city = document.querySelector("#city").value;
-let time = document.querySelector(".timing");
 
+let city = document.querySelector("#city").value;
 
 axios.get(`https://api.aladhan.com/v1/timingsByCity?city=${city}&country=""&method=8`).then(function (response){
     
