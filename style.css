@@ -1,9 +1,16 @@
 body {
     background-repeat: no-repeat;
-   background-size: cover;
- 
-   
-    /* background-size: cover; */
-    
+    background-size: cover;
     background-image: url(iStock-628846748Prayer.jpg.crdownload)
+}
+.main {
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#city {
+    width: 380px;
+    height: 25px;
+    border-top: 0;
+    border-right: 20px;
 }
