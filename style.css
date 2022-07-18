@@ -1,7 +1,9 @@
 body {
     background-repeat: no-repeat;
+   background-size: cover;
+ 
    
-    background-size: cover;
-    background-position-x:center ;
-    background-image: url(images.jpg);
+    /* background-size: cover; */
+    
+    background-image: url(iStock-628846748Prayer.jpg.crdownload)
 }
