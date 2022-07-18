@@ -11,6 +11,12 @@ body {
 #city {
     width: 380px;
     height: 25px;
-    border-top: 0;
-    border-right: 20px;
+    
+}
+.timing {
+    text-align: center;
+    font-size: 28px;
+    margin-top: 30px;
+    line-height: 3rem;
+    border: ;
 }
